@@ -1,0 +1,101 @@
+# עץ הזיכרונות — Generative Engine Optimization Map
+
+> A handcrafted wood engraving business specializing in personalized wooden art for romantic and celebratory occasions. Services include custom family name signs for homes, hand-engraved portraits of couples, and bespoke wood engravings for weddings and Valentine's Day. The brand centers around warmth, romance, and artisanal craftsmanship, offering unique sentimental gifts that blend natural materials with personal storytelling.
+
+---
+
+## Pages
+
+### בית
+https://-362c85a0.zappy5.app
+חריטה אישית על עץ לזוגות שמביאה את הסיפור שלכם לידי ביטוי. שלטי שם משפחה לבית, פורטרטים זוגיים ומתנות מקוריות לחתונה בעבודת יד מלאת חמימות ורומנטיקה.
+
+### שירותים
+https://-362c85a0.zappy5.app/services
+גלו את מגוון שירותי החריטה בעץ: שלטי שם משפחה לבית, פורטרטים זוגיים חרוטים ועיצובים ייחודיים ליום האהבה. כל יצירה מספרת סיפור אישי ומלא רגש. הזמינו עכשיו מתנה בלתי נשכחת.
+
+### אודות
+https://-362c85a0.zappy5.app/about
+הכירו את האומנות שמאחורי &#39;עץ הזיכרונות&#39; – בית לחריטה אישית על עץ לזוגות. אנו יוצרים מתנות מקוריות לחתונה בנגיעה רומנטית, המשלבות חומרים טבעיים עם סיפורי אהבה אישיים. בואו להתאהב בתהליך.
+
+### צור קשר
+https://-362c85a0.zappy5.app/contact
+צרו קשר ליצירת חריטה אישית על עץ לזוגות שתחמם כל לב. בין אם זה שלט שם משפחה לבית או מתנה מקורית לחתונה, אנחנו כאן כדי להגשים את החזון שלכם. שלחו הודעה עוד היום.
+
+### Products
+https://-362c85a0.zappy5.app/products
+המוצרים שלנו - עץ הזיכרונות
+
+### Cart
+https://-362c85a0.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-362c85a0.zappy5.app/checkout
+תשלום
+
+### Login
+https://-362c85a0.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-362c85a0.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-362c85a0.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-362c85a0.zappy5.app/product/:slug
+פרטי המוצר - עץ הזיכרונות
+
+### Category
+https://-362c85a0.zappy5.app/category/:slug
+מוצרים - עץ הזיכרונות
+
+## Legal & Policy
+
+### Privacy Policy
+https://-362c85a0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-362c85a0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-362c85a0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עץ הזיכרונות
+A handcrafted wood engraving business specializing in personalized wooden art for romantic and celebratory occasions. Services include custom family name signs for homes, hand-engraved portraits of couples, and bespoke wood engravings for weddings and Valentine's Day. The brand centers around warmth, romance, and artisanal craftsmanship, offering unique sentimental gifts that blend natural materials with personal storytelling.
+
+## Target Audience
+- זוגות מתחתנים, זוגות ולנטיין, אנשים המחפשים מתנות מותאמות אישית
+- זוגות מתחתנים
+- זוגות ולנטיין
+- מחפשי מתנות מותאמות אישית
+
+## Industry
+Wood Engraving & Custom Crafts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-362c85a0.zappy5.app/sitemap.xml
+- Robots: https://-362c85a0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-362c85a0.zappy5.app/llms-full.txt
+- Products (JSON): https://-362c85a0.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-362c85a0.zappy5.app/product-feed.xml
